@@ -1,0 +1,23 @@
+{
+  "name": "zoomdrag",
+  "version": "1.0.0",
+  "description": "A light version script for zooming and dragging image elements with the mousewheel/trackpad or on button click. Zoomdrag works by replacing the img element's src to background image, which can be sized and positioned. Zoomdrag makes image draggable to enlarge particular portion of image",
+  "main": "zoomimage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svnikkhilesh/zoomdrag.git"
+  },
+  "keywords": [
+    "zoom",
+    "drag"
+  ],
+  "author": "NIKKHILESH S V",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/svnikkhilesh/zoomdrag/issues"
+  },
+  "homepage": "https://github.com/svnikkhilesh/zoomdrag#readme"
+}
